@@ -1,0 +1,2 @@
+a="sanju"
+print(a)
